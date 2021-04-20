@@ -23,5 +23,5 @@ To configure "srvstat" tool please run:
 ```
 sudo wget https://github.com/AntonMashnin/agoric-srv-monitor/blob/main/monitoring.sh
 sudo chmod +x monitoring.sh
-sudo ./notification.sh
+sudo ./monitoring.sh
 ```
