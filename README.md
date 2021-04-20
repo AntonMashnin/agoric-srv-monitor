@@ -21,7 +21,7 @@ You need to open script and change in this line if [ \`cat /proc/loadavg | /usr/
 ## Installation
 To configure "srvstat" tool please run:
 ```
-sudo wget https://raw.githubusercontent.com/AntonMashnin/agoric-mail-script/main/notification.sh
-sudo chmod +x notification.sh
+sudo wget https://github.com/AntonMashnin/agoric-srv-monitor/blob/main/monitoring.sh
+sudo chmod +x monitoring.sh
 sudo ./notification.sh
 ```
